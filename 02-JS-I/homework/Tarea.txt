@@ -1,0 +1,7 @@
+	VARIABLES: una variable serìa como una caja en donde guardas un juguete y asi poder encontrarlo cuando lo necesite, y el contenido de la caja lo podes cambiar las veces que quieras.
+	STRINGS: es una cadena de caracteres, pueden ser letras. numeros, palabras, signos, etc ..
+	FUNCIONES: supongamos que en un pizarròn escribo 'tareasdel hogar' para hacer en la casa y describo como hacerlas: barrer ( buscar la escoba, preparar la palita, levantar la mugre del piso); cocinar (buscar los ingredientes, prender la hornalla, cocinarla); lavarropa (juntar la ropa sucia, meterla en lavarropa, encender el lavarropa) entonce le digo a un miembro de la flia que le toca la tarea 'barrer' el va hasta la pizarra busca las indicaciones y se pone a barrer, y asi puede ser con las demas tareas, diciendole el nombre de la tarea a un miembro de la flia ya sabe lo que tiene que hacer.
+	ARGUMENTOS: siguiendo el ejemplo de arriba, si quiero hacer 2 o màs tareas (barrer,cocinar) ya puedo elegir quien quiero que las haga.
+	RETURN: Serìa lo que me devuelve la funciòn el nuestro caso  'tareasdelhogar', al elegir alguna tarea por ejemplo 'lavarlaropa' me devolverìa la ropa limpia.
+	DECLARACIONES IF: Por ejemplo mando a mi mamà a comprarme caramelos,si hay me los trae, si no le digo que traiga chicles. Eso le da a mi mamà la posibilidad de tomar una decisiòn si pasa tal cosa, como en este caso que no haya caramelos.
+	VALORES BOOLEANOS: los valores booleanos son dos, falso y verdadero. Sirve para decir si una condiciòn es verdadera o falsa.
