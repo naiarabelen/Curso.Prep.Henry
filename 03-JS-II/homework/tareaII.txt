@@ -1,0 +1,7 @@
+	FOR:
+se utiliza para repertir una o màs instrucciones un determinado nùmero de veces,debemos saber el nùmero de veces que queremos que se ejecute.
+	OPERADORES LÒGICOS:
+&& AND (el resultado es verdadero si ambas expresiones son verdaderas) || OR (el resultado es verdadero si alguna expresión es verdadera) ... NOT (el resultado invierte la condición de la expresión)
+Para AND ambas condiciones se deben cumplir.
+Para OR puede suceder una condiciòn o otra, pero el resultado es el mismo para ambas.
+Para NOT la condicion es negadas, se invierte.
